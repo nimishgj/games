@@ -1,0 +1,52 @@
+.gridlayout{
+    display: grid;
+    grid-template-columns: repeat(5,100px);
+    background-color: transparent;
+    width: fit-content;
+
+}
+
+.main{
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(225, 225, 225);
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.gametitle{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: Arial;
+    text-align: center;
+}
+
+.gameinfo{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial;
+    text-align: center;
+    padding:20px 0;
+}
+
+.rollbtn{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    color: aliceblue;
+    background-color: rgb(21, 65, 187);
+    font-size: 25px;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+.score{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Arial;
+    text-align: center;
+    padding: 20px 0;
+}

@@ -1,0 +1,13 @@
+.box{
+    font-size: 30px;
+    padding: 10px 16px;
+    border:none;
+    width: fit-content;
+    margin:30px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 3.57447px 3.57447px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
