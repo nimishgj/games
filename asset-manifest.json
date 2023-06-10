@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/games/static/css/main.8431bf9f.css",
+    "main.js": "/games/static/js/main.0981716b.js",
+    "static/js/787.bdc2d5e5.chunk.js": "/games/static/js/787.bdc2d5e5.chunk.js",
+    "static/media/snakegame.png": "/games/static/media/snakegame.e4de935deb8dec7804d8.png",
+    "static/media/flappybird.png": "/games/static/media/flappybird.133ebc8860b98b13b9f9.png",
+    "static/media/tictactoe.png": "/games/static/media/tictactoe.24944eed8a56733b5635.png",
+    "static/media/tenzies.png": "/games/static/media/tenzies.a076f1e070fe6987084e.png",
+    "static/media/bg.jpg": "/games/static/media/bg.37cc0ee875e8d05dd8ae.jpg",
+    "index.html": "/games/index.html",
+    "main.8431bf9f.css.map": "/games/static/css/main.8431bf9f.css.map",
+    "main.0981716b.js.map": "/games/static/js/main.0981716b.js.map",
+    "787.bdc2d5e5.chunk.js.map": "/games/static/js/787.bdc2d5e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8431bf9f.css",
+    "static/js/main.0981716b.js"
+  ]
+}
